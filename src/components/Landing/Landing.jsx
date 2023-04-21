@@ -33,7 +33,6 @@ const Landing = () => {
           <ul className={classes.list}>
             <li className={classes.link}>
               <a href="https://www.linkedin.com/company/dsc-dypcoe/mycompany/">
-                {" "}
                 LinkedIn
               </a>
             </li>
